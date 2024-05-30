@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mY3Z40QZ6WfVwC1a3jXsKPx6jKH6HkpimoTVfJSGQ2g=",
+  "Source": "OAuthLoginAPI",
+  "BasePath": "_content/OAuthLoginAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
